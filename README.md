@@ -1,4 +1,6 @@
 # Hi 👋, I'm WADDAD EL MEHDI
+
+[![Website](https://img.shields.io/website?label=https://waddadelmehdi.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://waddadelmehdi.github.io/portfolio/)
 - 💻 I'm currently working on Java SpringBoot
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: waddadelmehdi@gmail.com
