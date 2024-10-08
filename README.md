@@ -2,3 +2,5 @@
 - 💻 I'm currently working on Java SpringBoot
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: waddadelmehdi@gmail.com
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
