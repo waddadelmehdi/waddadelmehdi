@@ -4,3 +4,4 @@
 - 📫 How to reach me: waddadelmehdi@gmail.com
 
 ![WADDAD EL MEHDI GitHub Stats](https://github-readme-stats.vercel.app/api?username=waddadelmehdi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waddadelmehdi&layout=compact&theme=dark)
