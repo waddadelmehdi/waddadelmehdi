@@ -2,11 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=https://waddadelmehdi.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://waddadelmehdi.github.io/portfolio/)
 - 💻 I'm currently working on Java SpringBoot
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me: waddadelmehdi@gmail.com
 
-![WADDAD EL MEHDI GitHub Stats](https://github-readme-stats.vercel.app/api?username=waddadelmehdi&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waddadelmehdi&layout=compact&theme=dark)
+[![WADDAD EL MEHDI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waddadelmehdi&show_icons=true&count_private=true)](https://github.com/waddadelmehdi)
+[![WADDAD EL MEHDI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waddadelmehdi&show_icons=true&count_private=true)](https://github.com/waddadelmehdi)
+
 
 
 # My Awesome Project
