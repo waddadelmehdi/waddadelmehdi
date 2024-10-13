@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=waddadelmehdi&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waddadelmehdi&langs_count=10&theme=dark)](https://github.com/waddadelmehdi)
+
 
 
 
