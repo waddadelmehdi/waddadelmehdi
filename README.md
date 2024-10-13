@@ -1,9 +1,11 @@
+<div align="center">
 # Hi 👋, I'm WADDAD EL MEHDI
 <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 [![Website](https://img.shields.io/website?label=https://waddadelmehdi.github.io/portfolio/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://waddadelmehdi.github.io/portfolio/)
 - 💻 I'm currently working on Java SpringBoot
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: waddadelmehdi@gmail.com
+</div>
 
 ## My Stats:
 <p align="center">
@@ -64,6 +66,8 @@
 <img align="left" alt="java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 <img align="left" alt="jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" style="padding-right:10px;" />
+
+
 
 # Top Respositorys
   <p align="left">
