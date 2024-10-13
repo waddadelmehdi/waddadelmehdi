@@ -5,7 +5,10 @@
 - 🌱 I’m currently learning Java 
 - 📫 How to reach me: waddadelmehdi@gmail.com
 
-[![WADDAD EL MEHDI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waddadelmehdi&show_icons=true&theme=dark)](https://github.com/waddadelmehdi)
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waddadelmehdi&langs_count=10&theme=dark)](https://github.com/waddadelmehdi)
 
 
