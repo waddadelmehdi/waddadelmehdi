@@ -9,6 +9,14 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=waddadelmehdi&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waddadelmehdi&langs_count=10&theme=dark)](https://github.com/waddadelmehdi)
 
 
